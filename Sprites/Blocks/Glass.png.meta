@@ -1,0 +1,1748 @@
+fileFormatVersion: 2
+guid: 4eb0523e4ab35dc4aa8c6c1c3504474b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2990443057539896228
+    second: Glass_FullSquare4
+  - first:
+      213: -1060080713516089567
+    second: Glass_HollowSquare2
+  - first:
+      213: -495215141973064099
+    second: Glass_HollowSquare4
+  - first:
+      213: -1569933146601365554
+    second: Glass_SmallWedge3
+  - first:
+      213: 2988799375980105856
+    second: Glass_TinySquare1
+  - first:
+      213: -6358608869827684446
+    second: Glass_SmallHalfBall2
+  - first:
+      213: -6434043064548189717
+    second: Glass_TinySquare3
+  - first:
+      213: -5506283330082464814
+    second: Glass_FullSquare3
+  - first:
+      213: -43755798084854360
+    second: Glass_HollowTriangle4
+  - first:
+      213: 3832127134957137286
+    second: Glass_Wedge3
+  - first:
+      213: -221288875474489763
+    second: Glass_Wedge4
+  - first:
+      213: 8282134346573564327
+    second: Glass_Ball1
+  - first:
+      213: -5007269218455503510
+    second: Glass_Ball2
+  - first:
+      213: 6157992960966760300
+    second: Glass_FullSquare2
+  - first:
+      213: -791708830296738462
+    second: Glass_HollowTriangle3
+  - first:
+      213: -5857509913418877132
+    second: Glass_SmallWedge1
+  - first:
+      213: -3330721434511059017
+    second: Glass_WidePlank4
+  - first:
+      213: -3381968991801574153
+    second: Glass_HalfBall4
+  - first:
+      213: 824793592952706183
+    second: Glass_HalfBall2
+  - first:
+      213: 3917696812923565766
+    second: Glass_HalfBall1
+  - first:
+      213: 2620602777596870832
+    second: Glass_MediumSquare2
+  - first:
+      213: -8759050455642949255
+    second: Glass_SmallBall3
+  - first:
+      213: -5222180327411939004
+    second: Glass_LongPlank2
+  - first:
+      213: 7997475498985162898
+    second: Glass_Wedge1
+  - first:
+      213: 6554441201628930560
+    second: Glass_LongPlank3
+  - first:
+      213: 6934563392679899097
+    second: Glass_FullSquare1
+  - first:
+      213: -3173624013722132492
+    second: Glass_SmallBall4
+  - first:
+      213: 1581123597390504748
+    second: Glass_LongPlank4
+  - first:
+      213: 265903905040900190
+    second: Glass_SmallWedge4
+  - first:
+      213: -4191224455421228200
+    second: Glass_LongPlank1
+  - first:
+      213: -7805550482806787488
+    second: Glass_HollowSquare1
+  - first:
+      213: 3924346177205069501
+    second: Glass_Wedge2
+  - first:
+      213: 6546535603226947255
+    second: Glass_SmallBall1
+  - first:
+      213: -1445829691799808659
+    second: Glass_MediumPlank4
+  - first:
+      213: 6332571117357032566
+    second: Glass_TinyPlank2
+  - first:
+      213: -2694002815229588953
+    second: Glass_SmallBall2
+  - first:
+      213: -1638391149971801130
+    second: Glass_TinyPlank1
+  - first:
+      213: -3626874237643163353
+    second: Glass_SmallHalfBall1
+  - first:
+      213: 6087321712533809637
+    second: Glass_MediumPlank2
+  - first:
+      213: -4042034488939183510
+    second: Glass_SmallWedge2
+  - first:
+      213: -9111300464131338223
+    second: Glass_SmallHalfBall4
+  - first:
+      213: 6751091430331503008
+    second: Glass_Ball3
+  - first:
+      213: -3777688350786437348
+    second: Glass_MediumSquare1
+  - first:
+      213: 733407583717494126
+    second: Glass_TinySquare4
+  - first:
+      213: -9044211861435058214
+    second: Glass_SmallHalfBall3
+  - first:
+      213: -6046610741730748678
+    second: Glass_HollowSquare3
+  - first:
+      213: -3777824772309579678
+    second: Glass_HollowTriangle2
+  - first:
+      213: 5083487878933258872
+    second: Glass_HollowTriangle1
+  - first:
+      213: -3282720460612047485
+    second: Glass_Ball4
+  - first:
+      213: 2110248874064228881
+    second: Glass_MediumSquare4
+  - first:
+      213: -4621237214687220277
+    second: Glass_MediumSquare3
+  - first:
+      213: -5898007026905966097
+    second: Glass_MediumPlank1
+  - first:
+      213: 5126382513034001501
+    second: Glass_MediumPlank3
+  - first:
+      213: -8906926410599485642
+    second: Glass_SmallPlank1
+  - first:
+      213: -8973346617917137763
+    second: Glass_SmallPlank2
+  - first:
+      213: -7909931396172329259
+    second: Glass_SmallPlank3
+  - first:
+      213: 1487993483553964925
+    second: Glass_SmallPlank4
+  - first:
+      213: 1344199015090134407
+    second: Glass_ShortPlank1
+  - first:
+      213: -200762885803675750
+    second: Glass_ShortPlank2
+  - first:
+      213: -7228278614620155862
+    second: Glass_ShortPlank3
+  - first:
+      213: -816092082804525913
+    second: Glass_ShortPlank4
+  - first:
+      213: 7600091357479998389
+    second: Glass_TinyPlank3
+  - first:
+      213: -4697875803020051904
+    second: Glass_TinyPlank4
+  - first:
+      213: -3579379163261482232
+    second: Glass_WidePlank3
+  - first:
+      213: -8071173627920548202
+    second: Glass_WidePlank2
+  - first:
+      213: 3405410268799267565
+    second: Glass_WidePlank1
+  - first:
+      213: 7475741509013569329
+    second: Glass_HalfBall3
+  - first:
+      213: 423118697538456799
+    second: Glass_TinySquare2
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Glass_FullSquare4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 407
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3d2b5ed10308920800000000000000
+      internalID: 2990443057539896228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_HollowSquare2
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 407
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f71a52536d941f0800000000000000
+      internalID: -1060080713516089567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_HollowSquare4
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 407
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d560d4fb374a029f0800000000000000
+      internalID: -495215141973064099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_SmallWedge3
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 448
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecfd6bbfe1a763ae0800000000000000
+      internalID: -1569933146601365554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_TinySquare1
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 470
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080143672395a7920800000000000000
+      internalID: 2988799375980105856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_SmallHalfBall2
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 422
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7d5481ceea1c7a0800000000000000
+      internalID: -6358608869827684446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_TinySquare3
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 425
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be91a0cfbefa5b6a0800000000000000
+      internalID: -6434043064548189717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_FullSquare3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319
+        width: 85
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db97cd1c70c593b0800000000000000
+      internalID: -5506283330082464814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_HollowTriangle4
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 323
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8add94e555c846ff0800000000000000
+      internalID: -43755798084854360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_Wedge3
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 325
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d614563537e2530800000000000000
+      internalID: 3832127134957137286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_Wedge4
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 325
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ee890b0f2ddecf0800000000000000
+      internalID: -221288875474489763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_Ball1
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 332
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9449dbe4d00f270800000000000000
+      internalID: 8282134346573564327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_Ball2
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 332
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d363bec2b928ab0800000000000000
+      internalID: -5007269218455503510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_FullSquare2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 232
+        width: 85
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6797c7b8f5957550800000000000000
+      internalID: 6157992960966760300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_HollowTriangle3
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 239
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2657f9473094305f0800000000000000
+      internalID: -791708830296738462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_SmallWedge1
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 282
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437b656a4c1f5bea0800000000000000
+      internalID: -5857509913418877132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_WidePlank4
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 110
+        width: 83
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b750329086e6c1d0800000000000000
+      internalID: -3330721434511059017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_HalfBall4
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 282
+        width: 75
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fcf742de15d011d0800000000000000
+      internalID: -3381968991801574153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_HalfBall2
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 282
+        width: 74
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784d6f02761427b00800000000000000
+      internalID: 824793592952706183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_HalfBall1
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 282
+        width: 75
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c63df79e747e5630800000000000000
+      internalID: 3917696812923565766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_MediumSquare2
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 282
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0401877504e5420800000000000000
+      internalID: 2620602777596870832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_SmallBall3
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 235
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979bdad940a917680800000000000000
+      internalID: -8759050455642949255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_LongPlank2
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 259
+        width: 248
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449049719a61787b0800000000000000
+      internalID: -5222180327411939004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_Wedge1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 157
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29886e8089dbcfe60800000000000000
+      internalID: 7997475498985162898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_LongPlank3
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 234
+        width: 248
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002e644cb8d06fa50800000000000000
+      internalID: 6554441201628930560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_FullSquare1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 145
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfec1d2aa48c3060800000000000000
+      internalID: 6934563392679899097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_SmallBall4
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 190
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff517b26c505f3d0800000000000000
+      internalID: -3173624013722132492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_LongPlank4
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 210
+        width: 248
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23e270e88741f510800000000000000
+      internalID: 1581123597390504748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_SmallWedge4
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 147
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e502a5c513ea0b300800000000000000
+      internalID: 265903905040900190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_LongPlank1
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 186
+        width: 248
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b00b85097c5d5c0800000000000000
+      internalID: -4191224455421228200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_HollowSquare1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0623ce3013d1da390800000000000000
+      internalID: -7805550482806787488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_Wedge2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 76
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db668fb5e04167630800000000000000
+      internalID: 3924346177205069501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_SmallBall1
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 100
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be2ac33277f9da50800000000000000
+      internalID: 6546535603226947255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_MediumPlank4
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 162
+        width: 204
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d655f8e3e816febe0800000000000000
+      internalID: -1445829691799808659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_TinyPlank2
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 162
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674e6fc31efc1e750800000000000000
+      internalID: 6332571117357032566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_SmallBall2
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 56
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a865686bafc9ad0800000000000000
+      internalID: -2694002815229588953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_TinyPlank1
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db79cefde34349e0800000000000000
+      internalID: -1638391149971801130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_SmallHalfBall1
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 85
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729734cc811caadc0800000000000000
+      internalID: -3626874237643163353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_MediumPlank2
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 140
+        width: 204
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9a91578d28a7450800000000000000
+      internalID: 6087321712533809637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_SmallWedge2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 15
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6207e44c0fc7e7c0800000000000000
+      internalID: -4042034488939183510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_SmallHalfBall4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 35
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110999960882e8180800000000000000
+      internalID: -9111300464131338223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_Ball3
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 0
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1d71713e1b0bd50800000000000000
+      internalID: 6751091430331503008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_MediumSquare1
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 12
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f3e33c574f29bc0800000000000000
+      internalID: -3777688350786437348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_TinySquare4
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 44
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d0f07cf469d2a00800000000000000
+      internalID: 733407583717494126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_SmallHalfBall3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 10
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7f9c5fa318c7280800000000000000
+      internalID: -9044211861435058214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_HollowSquare3
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 407
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6d314119f161ca0800000000000000
+      internalID: -6046610741730748678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_HollowTriangle2
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 407
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26801d6a268729bc0800000000000000
+      internalID: -3777824772309579678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_HollowTriangle1
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 407
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87222dbda4d2c8640800000000000000
+      internalID: 5083487878933258872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_Ball4
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 333
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38def48322f6172d0800000000000000
+      internalID: -3282720460612047485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_MediumSquare4
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 24
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112344e9b2c194d10800000000000000
+      internalID: 2110248874064228881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_MediumSquare3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 67
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcda0c3dc311edfb0800000000000000
+      internalID: -4621237214687220277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_MediumPlank1
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 118
+        width: 204
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe91386abd1162ea0800000000000000
+      internalID: -5898007026905966097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_MediumPlank3
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 96
+        width: 204
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c7a202cb1942740800000000000000
+      internalID: 5126382513034001501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_SmallPlank1
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 74
+        width: 168
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f2ca7de9d346480800000000000000
+      internalID: -8906926410599485642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_SmallPlank2
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 52
+        width: 168
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c98983bc4487380800000000000000
+      internalID: -8973346617917137763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_SmallPlank3
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 30
+        width: 168
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de4075cd474a3290800000000000000
+      internalID: -7909931396172329259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_SmallPlank4
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 8
+        width: 168
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d738457803a66a410800000000000000
+      internalID: 1487993483553964925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_ShortPlank1
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 75
+        width: 83
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d90e1e1ed87a210800000000000000
+      internalID: 1344199015090134407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_ShortPlank2
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 53
+        width: 83
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9fe693183fb63df0800000000000000
+      internalID: -200762885803675750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_ShortPlank3
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 31
+        width: 83
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a205306a5eeffab90800000000000000
+      internalID: -7228278614620155862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_ShortPlank4
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 9
+        width: 83
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a47d641398aca4f0800000000000000
+      internalID: -816092082804525913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_TinyPlank3
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 140
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b39c1792d2f87960800000000000000
+      internalID: 7600091357479998389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_TinyPlank4
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 118
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a361af8dacdceb0800000000000000
+      internalID: -4697875803020051904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_WidePlank3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 153
+        width: 83
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b4d598d9d735ec0800000000000000
+      internalID: -3579379163261482232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_WidePlank2
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 196
+        width: 83
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e7b4b295e6dff80800000000000000
+      internalID: -8071173627920548202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_WidePlank1
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 239
+        width: 83
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de27f3ac892724f20800000000000000
+      internalID: 3405410268799267565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_HalfBall3
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 282
+        width: 74
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f75655b4b2fb760800000000000000
+      internalID: 7475741509013569329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glass_TinySquare2
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 448
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc0b90b6383fd500800000000000000
+      internalID: 423118697538456799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
